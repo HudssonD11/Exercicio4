@@ -11,8 +11,8 @@ import java.util.UUID;
 
 public class ComputerVisionQuickstart {
 
-    static String subscriptionKey = "8b18af3319e448d99cebe4d7a5c9f5ee";
-    static String endpoint = "https://fotopratexto.cognitiveservices.azure.com/";
+    static String subscriptionKey = "";
+    static String endpoint = "";
 
     public static void main(String[] args) {
         
